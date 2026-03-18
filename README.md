@@ -17,7 +17,7 @@
 <!-- Dự án 2 - Ảnh bên trái -->
 <table>
   <tr>
-    <td width="40%" align="center">
+    <td width="300%" align="center">
       <!-- LINK ẢNH ĐÃ ĐÚNG (dùng lại ảnh cũ, nên tải ảnh khác lên để thay) -->
       <img src="https://github.com/HuyQuang181/HuyQuang181/blob/f2622ff9e49367776ed6ae3374498a2cd59ec82b/Screenshot%20(2337).png" width="200" style="border-radius: 10px; border: 2px solid #4ECDC4;">
     </td>
