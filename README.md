@@ -11,7 +11,7 @@
           <img src="https://github.com/HuyQuang181/HuyQuang181/blob/9672bd76835d67f70b0aa57f4481fe73f1dc5030/Screenshot%202026-03-18%20221549.png" alt="Projects">
         </a>
         <a href="#">
-          <img src="https://img.shields.io/badge/Landing_Page-1E90FF?style=for-the-badge&logo=web" alt="Landing Page">
+          <img src="https://github.com/HuyQuang181/HuyQuang181/blob/9672bd76835d67f70b0aa57f4481fe73f1dc5030/Screenshot%202026-03-18%20221549.png">
         </a>
       </p>
     </td>
