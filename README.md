@@ -19,7 +19,7 @@
   <tr>
     <td width="40%" align="center">
       <!-- LINK ẢNH ĐÃ ĐÚNG (dùng lại ảnh cũ, nên tải ảnh khác lên để thay) -->
-      <img src="[https://github.com/HuyQuang181/HuyQuang181/raw/main/Screenshot%202026-03-18%20221549%20(1).png](https://github.com/HuyQuang181/HuyQuang181/blob/786e7c2a7a6673d728fb7acb0827db9862c54f8c/Screenshot%202026-03-18%20221549.png)" width="200" style="border-radius: 10px; border: 2px solid #4ECDC4;">
+      <img src="https://github.com/HuyQuang181/HuyQuang181/blob/f2622ff9e49367776ed6ae3374498a2cd59ec82b/Screenshot%20(2337).png" width="200" style="border-radius: 10px; border: 2px solid #4ECDC4;">
     </td>
     <td width="60%">
       <h3>🌈 Project Name 2 - Marker Collection</h3>
