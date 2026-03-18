@@ -9,7 +9,7 @@
     </td>
     <td width="40%" align="center">
       <!-- LINK ẢNH ĐÃ ĐÚNG -->
-      <img src="https://github.com/HuyQuang181/HuyQuang181/raw/main/Screenshot%202026-03-18%20221549%20(1).png" width="200" style="border-radius: 10px; border: 2px solid #FF6B6B;">
+      <img src="https://github.com/HuyQuang181/HuyQuang181/raw/main/Screenshot%202026-03-18%20221549%20(1).png" width="300" style="border-radius: 10px; border: 2px solid #FF6B6B;">
     </td>
   </tr>
 </table>
