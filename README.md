@@ -1,23 +1,47 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+# 👋 Xin chào, tôi là Madelyn Torff
 
-  <!-- LEFT SIDE TEXT -->
-  <div style="width: 50%;">
-    <h1 style="font-size: 36px;">Hi, I'm Huy 👋</h1>
-    <p style="font-size: 18px;">
-      A passionate developer who loves building beautiful UI, modern websites,
-      and clean code. Welcome to my GitHub profile!
-    </p>
+## 🎨 UX/UI Designer
 
-    <ul style="font-size: 18px;">
-      <li>🔹 Front-end Developer</li>
-      <li>🔹 UI/UX Enthusiast</li>
-      <li>🔹 HTML • CSS • JS • React</li>
-    </ul>
-  </div>
+Tôi tạo ra những trải nghiệm số đẹp và thân thiện với người dùng.  
+*"Nisl arcu, scelerisque neque ut. Tincidunt amet, tempor duis tortor neque auctor dis ipsum."*
 
-  <!-- RIGHT SIDE IMAGE -->
-  <div style="width: 45%; text-align: right;">
-    <img src="https://i.imgur.com/YY5z7J0.png" width="90%" style="border-radius: 12px;" />
-  </div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-2ea44f?style=for-the-badge)](link-của-bạn)
+[![Landing Page](https://img.shields.io/badge/Landing_Page-Demo-1E90FF?style=for-the-badge)](link-của-bạn)
 
-</div>
+---
+
+## 📂 Dự án của tôi
+
+### 🌿 **Project Name 1**
+Dự án quanh năm này tạo không gian thư giãn cho tôi và bạn bè.  
+`UI/UX` `Web Design` `Figma`
+
+[🔗 Xem dự án](link-dự-án-1)
+
+---
+
+### 📱 **Project Name 2**
+Một phần nhỏ trong cuộc sống của tôi, nhưng rất ý nghĩa.  
+`Mobile App` `User Research` `Prototype`
+
+[🔗 Xem dự án](link-dự-án-2)
+
+---
+
+### 🎯 **Project Name 3**
+Khám phá thêm các dự án khác của tôi ở góc trên bên phải nhé!  
+`Branding` `Graphic Design` `Illustration`
+
+[🔗 Xem dự án](link-dự-án-3)
+
+---
+
+## 📫 Liên hệ
+
+[![About](https://img.shields.io/badge/About-Me-555?style=flat-square)](link-about)
+[![Projects](https://img.shields.io/badge/Projects-Portfolio-blue?style=flat-square)](link-projects)
+[![Contacts](https://img.shields.io/badge/Contacts-Email-red?style=flat-square)](mailto:email@example.com)
+
+---
+
+<p align="center">Made with ❤️ by Torff • 2021</p>
