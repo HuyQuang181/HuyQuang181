@@ -8,7 +8,7 @@
       <p><i>Short text with details about you, what you do or your professional career. You can add more information on the about page.</i></p>
       <p>
         <a href="#">
-          <img src="https://img.shields.io/badge/Projects-2ea44f?style=for-the-badge&logo=github" alt="Projects">
+          <img src="https://github.com/HuyQuang181/HuyQuang181/blob/9672bd76835d67f70b0aa57f4481fe73f1dc5030/Screenshot%202026-03-18%20221549.png" alt="Projects">
         </a>
         <a href="#">
           <img src="https://img.shields.io/badge/Landing_Page-1E90FF?style=for-the-badge&logo=web" alt="Landing Page">
