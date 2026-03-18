@@ -13,7 +13,7 @@
 </h3>
 
 <p style="color:black; font-size:16px; margin-top:15px;">
-  Short text with details about you, your career, or what you love to do.
+  Short text with details about you, your career, or what you love to do. tôi yêu tatas cả moi người nhiều lắm bạn có thể giúp tôi được không
 </p>
 
 </td>
