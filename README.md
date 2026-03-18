@@ -91,11 +91,26 @@
   <a href="#">About</a> • 
   <a href="#">Projects</a> • 
   <a href="#">Contacts</a>
-  <a href="https://www.instagram.com/quanghuy_181?igsh=MWQ3d2R1YzB3czM0aw==" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
+ <p align="center">
+  <a href="#">About</a> • 
+  <a href="#">Projects</a> • 
+  <a href="#">Contacts</a>
+</p>
+
+<p align="center">
+  <!-- Logo bằng emoji Instagram -->
+  <a href="https://www.instagram.com/quanghuy_181?igsh=MWQ3d2R1YzB3czM0aw==" target="_blank">📷</a>
   
-</a>
+  <!-- Các badges hiện tại -->
+  <img src="https://img.shields.io/badge/Marker_Collection-FF6B6B?style=flat-square">
+  <img src="https://img.shields.io/badge/Watercolor-4ECDC4?style=flat-square">
+  <img src="https://img.shields.io/badge/Color_Theory-9B59B6?style=flat-square">
+</p>
+
+<p align="center">
+  <i>Madelyn Torff 2021 • Made with 🎨 Watercolor Markers</i>
+</p>
+  
 </p>
 
 <p align="center">
