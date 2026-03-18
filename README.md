@@ -92,7 +92,9 @@
   <a href="#">Projects</a> • 
   <a href="#">Contacts</a>
   <a href="https://www.instagram.com/quanghuy_181?igsh=MWQ3d2R1YzB3czM0aw==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+  
 </a>
 </p>
 
