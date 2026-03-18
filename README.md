@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-  <i>Madelyn Torff 2021 • Made with 🎨 Watercolor Markers</i>
-</p>tôi muốn hiển thị được ảnh thì làm cách nào bạn có thể giúp tôi cách cho ảnh vào 3 phần bên cạnh project được k
+  <i>Madelyn Torff 2021 • Made with  Watercolor Markers</i>
+
