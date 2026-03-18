@@ -24,13 +24,13 @@
 
 ---
 
-<h2 align="center">🎨 Projects</h2>
+<h2 align="center"> Projects</h2>
 
 <!-- Dự án 1: Lấy cảm hứng từ màu đỏ/cam trong ảnh -->
 <table>
   <tr>
     <td width="60%">
-      <h3>🎯 Project Name 1 - Color Study</h3>
+      <h3> Project Name 1 - Color Study</h3>
       <p>I created this year-round project to explore the beautiful palette of watercolor markers. Each color tells a unique story.</p>
       <p><strong>Tech stack:</strong> Adobe Illustrator, Procreate, Watercolor Markers</p>
       <a href="#">🔗 View Project →</a>
@@ -50,7 +50,7 @@
       <img src="https://i.imgur.com/def456blue.jpg" width="200" style="border-radius: 10px; border: 2px solid #4ECDC4;">
     </td>
     <td width="60%">
-      <h3>🌈 Project Name 2 - Marker Collection</h3>
+      <h3> Project Name 2 - Marker Collection</h3>
       <p>This is just a small part of my marker collection. Each shade from W D V Z Z inspires my daily designs.</p>
       <p><strong>Tech stack:</strong> Figma, Adobe Color, Copic Markers</p>
       <a href="#">🔗 View Project →</a>
@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td width="60%">
-      <h3>🎨 Project Name 3 - Watercolor Dreams</h3>
+      <h3> Project Name 3 - Watercolor Dreams</h3>
       <p>You can explore my full marker collection at the top right corner. The numbers 5-30 represent my favorite shades.</p>
       <p><strong>Tech stack:</strong> Photoshop, Watercolor Techniques, Color Theory</p>
       <a href="#">🔗 View Project →</a>
@@ -91,6 +91,9 @@
   <a href="#">About</a> • 
   <a href="#">Projects</a> • 
   <a href="#">Contacts</a>
+  <a href="https://www.instagram.com/quanghuy_181?igsh=MWQ3d2R1YzB3czM0aw==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
