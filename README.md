@@ -1,45 +1,23 @@
-<!-- HEADER WITH BACKGROUND -->
-<div align="center">
-  <img src="https://i.imgur.com/YY5z7J0.png" width="100%" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-  <h1 style="font-size: 40px; margin-top: -80px; color: white;">
-    🚀 My Awesome Project
-  </h1>
+  <!-- LEFT SIDE TEXT -->
+  <div style="width: 50%;">
+    <h1 style="font-size: 36px;">Hi, I'm Huy 👋</h1>
+    <p style="font-size: 18px;">
+      A passionate developer who loves building beautiful UI, modern websites,
+      and clean code. Welcome to my GitHub profile!
+    </p>
 
-  <p style="font-size: 18px; color: #eee; max-width: 600px;">
-    A beautiful and modern project template with full layout, background,
-    sections, and clean design — 100% GitHub-compatible.
-  </p>
+    <ul style="font-size: 18px;">
+      <li>🔹 Front-end Developer</li>
+      <li>🔹 UI/UX Enthusiast</li>
+      <li>🔹 HTML • CSS • JS • React</li>
+    </ul>
+  </div>
 
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Version-1.0-blue" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <!-- RIGHT SIDE IMAGE -->
+  <div style="width: 45%; text-align: right;">
+    <img src="https://i.imgur.com/YY5z7J0.png" width="90%" style="border-radius: 12px;" />
+  </div>
+
 </div>
-
----
-
-## 🌟 Features
-
-- ✨ Clean UI Template  
-- 🎨 Modern landing-page layout  
-- 📦 Easy to customize  
-- ⚡ Fast setup  
-- 📱 Responsive sections  
-
----
-
-## 🖼️ Preview
-
-<div align="center">
-  <img src="https://i.imgur.com/DJt7M2d.png" width="90%">
-</div>
-
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourname/your-project.git
-cd your-project
-npm install
