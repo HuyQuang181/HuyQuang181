@@ -1,28 +1,45 @@
-<div style="width:100%; background:#F4A100; padding:40px; border-radius:10px;">
+<!-- HEADER WITH BACKGROUND -->
+<div align="center">
+  <img src="https://i.imgur.com/YY5z7J0.png" width="100%" />
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+  <h1 style="font-size: 40px; margin-top: -80px; color: white;">
+    🚀 My Awesome Project
+  </h1>
 
-<h1 style="color:white; font-size:40px; font-weight:700;">
-  Hello, I'm <span style="color:black;">Huy Quang</span> 👋
-</h1>
+  <p style="font-size: 18px; color: #eee; max-width: 600px;">
+    A beautiful and modern project template with full layout, background,
+    sections, and clean design — 100% GitHub-compatible.
+  </p>
 
-<h3 style="color:white;">
-  UI/UX Designer • Developer • Video Editor
-</h3>
-
-<p style="color:black; font-size:16px; margin-top:15px;">
-  Short text with details about you, your career, or what you love to do. tôi yêu tatas cả moi người nhiều lắm bạn có thể giúp tôi được không
-</p>
-
-</td>
-
-<td width="40%" align="center">
-  <img src="https://i.imgur.com/jk8O6vv.png" width="230" style="border-radius:50%; border:4px solid white;">
-</td>
-
-</tr>
-</table>
-
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Version-1.0-blue" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
 </div>
+
+---
+
+## 🌟 Features
+
+- ✨ Clean UI Template  
+- 🎨 Modern landing-page layout  
+- 📦 Easy to customize  
+- ⚡ Fast setup  
+- 📱 Responsive sections  
+
+---
+
+## 🖼️ Preview
+
+<div align="center">
+  <img src="https://i.imgur.com/DJt7M2d.png" width="90%">
+</div>
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourname/your-project.git
+cd your-project
+npm install
