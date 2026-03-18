@@ -17,7 +17,7 @@
     </td>
     <td width="50%" align="center">
       <!-- Ảnh đại diện - Dùng ảnh bạn gửi nhưng cắt lấy phần chữ W D V Z Z -->
-      <img src="https://github.com/HuyQuang181/HuyQuang181/blob/9672bd76835d67f70b0aa57f4481fe73f1dc5030/Screenshot%202026-03-18%20221549.png" width="250" style="border-radius: 20px; border: 3px solid #FF6B6B;">
+      <img src="https://github.com/HuyQuang181/HuyQuang181/blob/9672bd76835d67f70b0aa57f4481fe73f1dc5030/Screenshot%202026-03-18%20221549.png" width="600" style="border-radius: 20px; border: 3px solid #FF6B6B;">
     </td>
   </tr>
 </table>
