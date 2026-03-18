@@ -47,7 +47,7 @@
   <tr>
     <td width="40%" align="center">
       <!-- Phần màu xanh từ ảnh của bạn -->
-      <img src="https://i.imgur.com/def456blue.jpg" width="200" style="border-radius: 10px; border: 2px solid #4ECDC4;">
+      <img src="[https://i.imgur.com/def456blue.jpg](https://github.com/HuyQuang181/HuyQuang181/blob/main/Screenshot%202026-03-18%20221549.png)" width="200" style="border-radius: 10px; border: 2px solid #4ECDC4;">
     </td>
     <td width="60%">
       <h3>🌈 Project Name 2 - Marker Collection</h3>
